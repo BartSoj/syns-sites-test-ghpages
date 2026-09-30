@@ -1,0 +1,3 @@
+@font-face{font-family:"Test";src:url("fonts/test.woff2") format("woff2");font-display:swap}
+body{font-family:"Test",system-ui,sans-serif;margin:2rem;color:#222}
+nav a{margin-right:1rem}
